@@ -1,6 +1,6 @@
 # Scientific-writing-tips
 
-## 1. Fun Science writing tips
+## 1. Fun science writing tips
 * 18 tips to improve your science writing. (n.d.). Retrieved 9 October 2020, from https://www.scitechedit.com/en-GB/helpful-resources/newsletters/502-improve-your-scientific-writing
 * RubenMar. 23, A., 2012, & Am, 8:00. (2012, March 23). How to write like a scientist. Science | AAAS. https://www.sciencemag.org/careers/2012/03/how-write-scientist
 
