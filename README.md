@@ -1,28 +1,32 @@
 # Scientific-writing-tips
 
-## 1. Fun Science writing tips:
-* https://www.scitechedit.com/en-GB/helpful-resources/newsletters/502-improve-your-scientific-writing
-* https://www.sciencemag.org/careers/2012/03/how-write-scientist
+## 1. Fun Science writing tips
+* 18 tips to improve your science writing. (n.d.). Retrieved 9 October 2020, from https://www.scitechedit.com/en-GB/helpful-resources/newsletters/502-improve-your-scientific-writing
+* RubenMar. 23, A., 2012, & Am, 8:00. (2012, March 23). How to write like a scientist. Science | AAAS. https://www.sciencemag.org/careers/2012/03/how-write-scientist
 
 
-## 2. MSc help tips:
-* https://www.postgradresources.info/
+## 2. MSc help tips
+* Educational resources for student research. (n.d.). https://www.postgradresources.info/
+* Moving from assignment to topic. (n.d.). Harvard University College Writing Center. https://writingcenter.fas.harvard.edu/pages/moving-assignment-topic
+* How to write a comparative analysis. (n.d.). Harvard University College Writing Center. https://writingcenter.fas.harvard.edu/pages/how-write-comparative-analysis
 
-## 3. Note taking tips:
-* https://www.oxfordlearning.com/5-effective-note-taking-methods/
+## 3. Note taking tips
+* How to take study notes: 5 effective note taking methods. (2017, May 3). Oxford Learning. https://www.oxfordlearning.com/5-effective-note-taking-methods/
 
-## 4. Literature review tips:
-* https://www.scribbr.com/dissertation/literature-review/ 
+## 4. Literature review tips
+* The literature review | a complete step-by-step guide. (2019, February 22). Scribbr. https://www.scribbr.com/dissertation/literature-review/
 
-## 5. Thesis writing tips:
-* http://www.cws.illinois.edu/workshop/writers/tips/thesis/
-* https://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html
+## 5. Thesis writing tips
+* Developing a thesis. (n.d.). Harvard University College Writing Center. https://writingcenter.fas.harvard.edu/pages/developing-thesis
+* Kim Kastens, Stephanie Pfirman, Martin Stute, Bill Hahn, Dallas Abbott, & Chris Scholz. (n.d.). How to write a thesis. https://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html
+* PainApr. 30, E., 2018, & Pm, 3:00. (2018, April 30). How to write your Ph.D. thesis. Science | AAAS. https://www.sciencemag.org/careers/2018/04/how-write-your-phd-thesis
+* Guidelines For Writing A Thesis . (2012). Oulu Business School, University of Oulu. https://www.oulu.fi/sites/default/files/content/Guidelines.pdf
 
 ## 6. Scientific paper writing tips (ebook)
-* https://spie.org/samples/9781510619142.pdf
+* Mack, C. A. (2018). How to write a good scientific paper. Society of Photo-Optical Instrumentation Engineers (SPIE). https://spie.org/samples/9781510619142.pdf
 
 ## 7. How to email professors
-* https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087
+* Portwood-Stacer, L. (2016, August 14). How to email your professor(Without being annoying af). Medium. https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087
 
 ## 8. Using a citation manager
 ### 8.1. Zotero
