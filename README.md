@@ -44,3 +44,7 @@
 ### 9.3. Explanation on ggplot package of r by Edureka
 * https://www.youtube.com/watch?v=N5gYo43oLE8
 
+## 10. Software learning
+### 10.1 Jamovi tutorial
+* https://www.youtube.com/watch?v=mZomeS0tLxY
+
