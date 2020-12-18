@@ -54,7 +54,7 @@
 * https://www.youtube.com/watch?v=hG5vKMb0Lpo&list=PLv9Pf9aNgemvb55w2dAh-QlZSOKM6vtEx
 
 ## 9. Statistics tutorial
-### 3 9.1. Introduction to statistics by Edureka
+### 9.1. Introduction to statistics by Edureka
 * https://www.youtube.com/watch?v=_AwL8DTHxAU
 
 ### 9.2. Introductory statistics playlist by Edureka 
