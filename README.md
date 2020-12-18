@@ -28,11 +28,30 @@
 ## 7. How to email professors
 * Portwood-Stacer, L. (2016, August 14). How to email your professor(Without being annoying af). Medium. https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087
 
-## 8. Using a citation manager
-### 8.1. Zotero
+## 8. Learning softwares
+### 8.1. Zotero : Citation manager
 
 #### Playlist by Nicholas Cifuentes-Goodbody
 * https://www.youtube.com/watch?v=Gm2MbYB3k4o&list=PLXt-tu7G1H3vlRXLmGyOzeAp7ZKDK0pty
+
+### 8.2 Introduction to Latex
+* https://www.youtube.com/watch?v=fCzF5gDy60g
+
+#### TexStudio : Latex offline
+* https://www.youtube.com/watch?v=fCzF5gDy60g
+
+#### Overleaf : Latex online
+* https://www.youtube.com/watch?v=0ivLZh9xK1Q
+
+### 8.3 Google spreadsheets
+#### Beginner introduction
+* https://www.youtube.com/watch?v=wQfApf3eci8
+
+#### Intermediate tutorial playlist
+* https://www.youtube.com/watch?v=0yMOMSBENbo&list=PLv9Pf9aNgemtP-BeFvg78PJFxKs6xDgea
+
+#### Advanced tutorial playlist
+* https://www.youtube.com/watch?v=hG5vKMb0Lpo&list=PLv9Pf9aNgemvb55w2dAh-QlZSOKM6vtEx
 
 ## 9. Statistics tutorial
 ### 3 9.1. Introduction to statistics by Edureka
