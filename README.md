@@ -34,13 +34,14 @@
 #### Playlist by Nicholas Cifuentes-Goodbody
 * https://www.youtube.com/watch?v=Gm2MbYB3k4o&list=PLXt-tu7G1H3vlRXLmGyOzeAp7ZKDK0pty
 
-### 8.2 Introduction to Latex
+### 8.2 Latex 
+#### Introduction for beginners by The Math Repository hosted by Academic Lesson
 * https://www.youtube.com/watch?v=fCzF5gDy60g
 
-#### TexStudio : Latex offline
-* https://www.youtube.com/watch?v=fCzF5gDy60g
+#### TexStudio tutorial playlist by The Latex Latifundium
+* https://www.youtube.com/watch?v=G-bND5CHbIk&list=PLkJyhB6OrfPkVBq5DYy2-maBCIOlKPIYY
 
-#### Overleaf : Latex online
+#### Overleaf tutorial by Michelle Krummel
 * https://www.youtube.com/watch?v=0ivLZh9xK1Q
 
 ### 8.3 Google spreadsheets
@@ -64,6 +65,6 @@
 * https://www.youtube.com/watch?v=N5gYo43oLE8
 
 ## 10. Software learning
-### 10.1 Jamovi tutorial
+### 10.1 Jamovi tutorial by datalabcc hosted by freeCodeCamp.org
 * https://www.youtube.com/watch?v=mZomeS0tLxY
 
